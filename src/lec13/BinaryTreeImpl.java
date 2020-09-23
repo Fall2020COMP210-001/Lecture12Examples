@@ -1,4 +1,4 @@
-package lec12;
+package lec13;
 
 public class BinaryTreeImpl<T> implements BinaryTree<T> {
 
